@@ -1,5 +1,5 @@
 {
-  "name": "@makotopd/medusa-omnibus-plugin",
+  "name": "medusa-omnibus-plugin",
   "version": "1.0.1",
   "description": "Medusa v2 plugin for Omnibus Directive compliance - tracks product price history and displays lowest price from last 30 days",
   "author": "MakotoPD (https://makoto.com.pl)",

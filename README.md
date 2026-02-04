@@ -12,13 +12,13 @@ A Medusa v2 plugin for **EU Omnibus Directive (2019/2161)** compliance. Automati
 ## 📦 Installation
 
 ```bash
-npm install @makotopd/medusa-omnibus-plugin
+npm installmedusa-omnibus-plugin
 ```
 
 Or with Medusa CLI:
 
 ```bash
-npx medusa plugin:add @makotopd/medusa-omnibus-plugin
+npx medusa plugin:add medusa-omnibus-plugin
 ```
 
 ## ⚙️ Configuration
@@ -30,7 +30,7 @@ module.exports = defineConfig({
   // ... other options
   plugins: [
     {
-      resolve: "@makotopd/medusa-omnibus-plugin",
+      resolve: "medusa-omnibus-plugin",
       options: {
         // Number of days to keep price history (default: 30)
         retentionDays: 30,
@@ -218,4 +218,4 @@ MIT
 ## 🤝 Support
 
 If you have questions or issues:
-- [GitHub Issues](https://github.com/MakotoPD/medusa-omnibus-plugin/issues)
+- [GitHub Issues](https://github.com/MakotoPD/omnibus-medusa-plugin/issues)
