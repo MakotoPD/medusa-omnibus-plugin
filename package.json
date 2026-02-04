@@ -63,7 +63,7 @@
     "@medusajs/framework": "^2.12.4",
     "@medusajs/test-utils": "^2.12.4",
     "@medusajs/medusa": "^2.12.4",
-    "@medusajs/ui": "4.0.25",
+    "@medusajs/ui": "^4.0.25",
     "@medusajs/icons": "^2.12.4"
   },
   "engines": {
