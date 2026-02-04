@@ -12,7 +12,7 @@ A Medusa v2 plugin for **EU Omnibus Directive (2019/2161)** compliance. Automati
 ## 📦 Installation
 
 ```bash
-npm installmedusa-omnibus-plugin
+npm install medusa-omnibus-plugin
 ```
 
 Or with Medusa CLI:
@@ -218,4 +218,4 @@ MIT
 ## 🤝 Support
 
 If you have questions or issues:
-- [GitHub Issues](https://github.com/MakotoPD/omnibus-medusa-plugin/issues)
+- [GitHub Issues](https://github.com/MakotoPD/medusa-omnibus-plugin/issues)
